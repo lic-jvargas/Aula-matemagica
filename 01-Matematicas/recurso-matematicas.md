@@ -1,6 +1,6 @@
 # Recurso de Matemáticas – Grado 4.º
 
-## 📚 Información general
+## Información general
 
 * **Área:** Matemáticas
 * **Grado:** 4.º de primaria
@@ -10,21 +10,21 @@
 * **Tipo de recurso:** Presentación interactiva
 * **Herramienta:** Prezi
 
-## 🎯 Objetivo de aprendizaje
+## Objetivo de aprendizaje
 
 Reconocer, utilizar y relacionar diferentes unidades e instrumentos de medida para determinar magnitudes como la longitud, el peso y la masa en situaciones de la vida cotidiana.
 
-## 📝 Descripción del recurso
+## Descripción del recurso
 
 Recurso educativo elaborado en Prezi para apoyar el aprendizaje de las unidades de medida en estudiantes de grado cuarto.
 
 La presentación aborda conceptos relacionados con la **longitud, el peso y la masa**, utilizando explicaciones, ejemplos y situaciones que permiten al estudiante relacionar las unidades de medida con situaciones de su entorno.
 
-## 💻 Recurso digital
+## Recurso digital
 
 **Prezi:** https://prezi.com/view/lOJQZsF3MpcGa37ajOap/?referral_token=jCEpHFlnB3FN
 
-## 📖 Referentes curriculares
+## Referentes curriculares
 
 ### DBA – Derechos Básicos de Aprendizaje
 
@@ -34,7 +34,7 @@ La presentación aborda conceptos relacionados con la **longitud, el peso y la m
 
 **Fuente:** Ministerio de Educación Nacional de Colombia – Derechos Básicos de Aprendizaje de Matemáticas.
 
-### 📐 Estándar Básico de Competencias
+### Estándar Básico de Competencias
 
 **Pensamiento métrico y sistemas de medidas:**
 
@@ -44,7 +44,7 @@ La presentación aborda conceptos relacionados con la **longitud, el peso y la m
 
 **Fuente:** Ministerio de Educación Nacional de Colombia – Estándares Básicos de Competencias en Matemáticas.
 
-## 🧩 Actividad de aprendizaje
+## Actividad de aprendizaje
 
 Después de explorar la presentación de Prezi, el estudiante identifica objetos de su entorno que puedan medirse y determina qué magnitud corresponde en cada caso:
 
@@ -54,7 +54,7 @@ Después de explorar la presentación de Prezi, el estudiante identifica objetos
 
 Posteriormente, compara diferentes medidas y selecciona la unidad más adecuada para cada situación.
 
-## ✅ Evidencias de aprendizaje
+## Evidencias de aprendizaje
 
 El estudiante:
 
@@ -64,7 +64,7 @@ El estudiante:
 * Relaciona unidades de medida con situaciones de la vida cotidiana.
 * Resuelve situaciones sencillas que requieren comparar o estimar medidas.
 
-## 🔗 Referentes oficiales
+## Referentes oficiales
 
 **DBA de Matemáticas – MEN:**
 https://www.colombiaaprende.edu.co/
@@ -72,7 +72,7 @@ https://www.colombiaaprende.edu.co/
 **Estándares Básicos de Competencias – MEN:**
 https://www.mineducacion.gov.co/
 
-## 📌 Observaciones
+## Observaciones
 
 Este recurso puede utilizarse como apoyo para la explicación del tema, como material de consulta o como actividad complementaria dentro de una secuencia didáctica de Matemáticas de grado cuarto.
 
